@@ -1,3 +1,8 @@
+nav {
+    color: orange;
+    width:100%
+}
+
 .landing-page {
     border:red;
 }
@@ -5,3 +10,91 @@
 h1 {
     color: blue
 }
+
+.bridal-party { 
+    text-align: center;
+    height: 450px;
+    width: 100%;
+    background-color: purple;
+    border: 1px solid black;
+    padding: 1rem 1rem;
+    text-align: center;
+}
+
+.bridesmaids {
+    /* display: inline-block; */
+    display: inline-block;
+    border: 1px solid red;
+    /* padding: 7rem 7rem; */
+    vertical-align: middle;
+    width: 40%;
+    height: 300px
+ }
+
+ .groomsmen {
+    /* display: inline-block; */
+    display: inline-block;
+    border: 1px solid red;
+    /* padding: 7rem 7rem; */
+    vertical-align: middle;
+    width: 40%;
+    height: 300px
+ }
+
+.festive-details {
+    height: 450px;
+    width: 100%;
+    background-color: powderblue;
+    border: 1px solid black;
+    padding: 1rem 1rem;
+    text-align: center;
+}
+
+.detailed-info-cere-recep1 {
+   /* display: inline-block; */
+   display: inline-block;
+   border: 1px solid red;
+   /* padding: 7rem 7rem; */
+   vertical-align: middle;
+   width: 40%;
+   height: 300px
+}
+
+.detailed-info-cere-recep2 {
+   /* display: inline-block; */
+  display: inline-block;
+  border: 1px solid red;
+  /* padding: 7rem 7rem; */
+  vertical-align: middle;
+  width: 40%;
+  height: 300px
+}
+
+.registry {
+    text-align: center;
+    height: 450px;
+    width: 100%;
+    background-color: orange;
+}
+
+.rest-your-head { 
+    text-align: center;
+    height: 450px;
+    width: 100%;
+    background-color: pink;
+}
+
+.cape-town-suggestions {
+    text-align: center;
+    height: 450px;
+    width: 100%;
+    background-color: grey;
+}
+
+
+.rsvp {
+        text-align: center;
+        height: 450px;
+        width: 100%;
+        background-color: yellow;
+} 
